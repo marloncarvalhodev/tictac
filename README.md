@@ -25,7 +25,7 @@ O projeto utiliza a API nativa `Intl.DateTimeFormat` para manter o horário sinc
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - [Vue 3](https://vuejs.org/) — Composition API (`<script setup>`, `ref`, `computed`, `onMounted`, `onUnmounted`)
 - [Tailwind CSS](https://tailwindcss.com/) — Estilização utilitária e design system neutro
